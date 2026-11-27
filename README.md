@@ -13,6 +13,7 @@
 | **05** | Планирование и контроль в IT-проекте | [`05-it-project-planning-and-control`](./05-it-project-planning-and-control/README.md) | DOCX | Виды и этапы планирования/контроля, рекомендации менеджеру и SWOT-анализ по 3 IT-кейсам |
 | **06** | Карта рисков на проектную задачу | [`06-task-risk-map`](./06-task-risk-map/README.md) | PDF | Оценка вероятности и влияния рисков, превентивные меры и план B для Python-модуля распознавания жестов |
 | **07** | Система менеджмента для IT-стартапа Nimbus | [`07-nimbus-startup-management-system`](./07-nimbus-startup-management-system/README.md) | DOCX + PPTX | Итоговый проект: целеполагание (OKR/KPI), синтез классики (Файоль, Мэйо) и Agile (Scrum + Lean) |
+| **08** | Идентификация и оценка рисков IT-проектов | [`08-it-project-risk-assessment`](./08-it-project-risk-assessment/README.md) | DOCX | Расчёт ожидаемой доходности ($E$, $\sigma$, $CV$), матрица рисков $3\times3$ и стратегии реагирования (кейс медданных) |
 
 ---
 
